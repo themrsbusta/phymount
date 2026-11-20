@@ -1,4 +1,7 @@
 Phymount 1.01 📸
+
+**Division:** Panthera Softwares — Panthera Research. **License:** [MIT](LICENSE).
+
 Phymount is a lightweight, high-performance grid montage tool built with Python. Designed for speed and precision, it allows users to organize multiple photos into a single high-resolution grid without the need for complex editing software.
 
 ✨ What's New in v1.01
